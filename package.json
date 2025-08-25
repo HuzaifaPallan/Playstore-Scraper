@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "main": "review_analyzer.js",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "google-play-scraper": "^10.0.1",
+    "minimist": "^1.2.8",
+    "openai": "^5.15.0"
+  }
+}

@@ -1,0 +1,1903 @@
+{
+  "app": {
+    "title": "Happy Atoms",
+    "developer": "Schell Games",
+    "description": "Happy Atoms is an intuitive, hands-on way to learn chemistry!"
+  },
+  "reviews": [
+    {
+      "id": "2c6bd55c-bf2e-4fd7-9d6e-08dd55f01ef5",
+      "userName": "Armando Castro Reyes",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXA9dHve3fkx_f4i69V1UTJl-BEm5hx4ec1SF_P2PqJV1_zW9N3Eg",
+      "date": "2025-07-03T01:13:15.418Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=2c6bd55c-bf2e-4fd7-9d6e-08dd55f01ef5",
+      "title": null,
+      "text": "really good game for learning",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.3.0",
+      "thumbsUp": 0,
+      "criterias": []
+    },
+    {
+      "id": "6ae53bda-daef-4798-8d80-9539fb7b2cc5",
+      "userName": "Adeesha Hasaral",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI6mcZUGF7c09HzahiybTCoBF1YXes_7AFDGlPUrViuBLko8FM=mo",
+      "date": "2024-08-20T08:00:59.194Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=6ae53bda-daef-4798-8d80-9539fb7b2cc5",
+      "title": null,
+      "text": "I love the app! As a nerd, I love chemistry and the natural beauty of the elements. So I decided to give this a try. And it was indeed worth it! I also found out that they have variations of atoms for example, tritium, a variant of hydrogen!",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.17",
+      "thumbsUp": 0,
+      "criterias": [
+        {
+          "criteria": "vaf_games_multi_player_v1",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_offline_v1",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "id": "f6420cca-43b8-47b3-ae73-51ee935a0c9b",
+      "userName": "Rebecca Gates",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWAOaHzZIeWMEAXD4GBG-ap26QGrkFgmkuN6XZrRIOTF7lNYdBI",
+      "date": "2024-06-28T03:13:24.378Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=f6420cca-43b8-47b3-ae73-51ee935a0c9b",
+      "title": null,
+      "text": "This is a POS! My kid was so excited and we could never even get the scanner to calibrate. Spent over an hour trying to get it to recognize the right atoms and not once did it identify even one of the calibration atoms correctly. And since there is no book or guide without the app it's an utter waste and I want my money back 🤬⚛️🤬",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.17",
+      "thumbsUp": 0,
+      "criterias": []
+    },
+    {
+      "id": "8424d5d4-d1e4-4c47-8529-17c84ee93424",
+      "userName": "Anya Michels",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXiGutPMLABatA9WxHXOmL4UweAGEJcY5XaOJlAckhwCUyDQPg",
+      "date": "2024-04-28T00:35:46.763Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=8424d5d4-d1e4-4c47-8529-17c84ee93424",
+      "title": null,
+      "text": "Wonderful educational game, but worthless without a working app. Spent $150 on the molecular set, but camera on Galaxy S23 doesn't pick up the atoms well enough to even get through the app calibration. Please, fix it!!! It used to work perfectly well years ago with an old Samsung tablet.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.17",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_offline_v2",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_multi_player_v1",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "03163a06-8ca4-4696-bb82-6d59cbf9c4de",
+      "userName": "Luca Ateman",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIVC2-2WKHwjovZVMICEEBN_lNR_3tqzlO0Hof2fdo5SOXQ-A=mo",
+      "date": "2024-04-19T03:04:18.947Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=03163a06-8ca4-4696-bb82-6d59cbf9c4de",
+      "title": null,
+      "text": "Super cool and fun I normally hate educational stuff but this is fun for me",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.17",
+      "thumbsUp": 0,
+      "criterias": [
+        {
+          "criteria": "vaf_games_offline_v1",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_multi_player_v1",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "0999018d-5266-4460-b77d-655252e47b9e",
+      "userName": "Jennifer Murphy",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWI4afxvh01S4M3MTgisYmChBoqk8bJ-rjnVlCu1D7pQcxYFMEZ7Q",
+      "date": "2024-03-23T00:27:37.431Z",
+      "score": 2,
+      "scoreText": "2",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=0999018d-5266-4460-b77d-655252e47b9e",
+      "title": null,
+      "text": "Is there a way to manually enter the molecules? It scanned my 2d kit wrong every time. I had to dig into the directions to learn that you have to click the camera 9 times to bypass the tutorial. I haven't tried entering a molecule yet because I couldn't get past the Calibration/tutorial.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.17",
+      "thumbsUp": 0,
+      "criterias": []
+    },
+    {
+      "id": "fd6eb0ee-8fd5-49fc-9e21-9329a62c22ee",
+      "userName": "Katie Hinds",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ-A1TzSTh8cj9rijVD-puVG-ERm_WuvRHOdrLg0oT7FCt-OQ=mo",
+      "date": "2024-03-11T14:58:37.486Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=fd6eb0ee-8fd5-49fc-9e21-9329a62c22ee",
+      "title": null,
+      "text": "I was trying to take a picture for 15 minutes and it never even noticed that the atoms where there!",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.17",
+      "thumbsUp": 0,
+      "criterias": [
+        {
+          "criteria": "vaf_games_multi_player_v1",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_offline_v1",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "id": "3d3ebdf5-705c-4c13-bf1c-3bb6af7e1b3c",
+      "userName": "Corrie Morar",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVCMaBN5X7JjVcJbkH6wIlRNz-vQHH3y67PlezL0W-HK-QOTwwqhQ",
+      "date": "2024-03-05T23:46:38.828Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=3d3ebdf5-705c-4c13-bf1c-3bb6af7e1b3c",
+      "title": null,
+      "text": "This is horrible, the camera doesn't work",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.17",
+      "thumbsUp": 0,
+      "criterias": [
+        {
+          "criteria": "vaf_games_offline_v2",
+          "rating": 3
+        },
+        {
+          "criteria": "vaf_games_multi_player_v1",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "8d5bec30-2a0b-4883-9069-e10d6170d066",
+      "userName": "Vanessa Wilson",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVmJXLQNzf0n8jkfp8CEoXKAYYc9vR2OITo-0DZS6q8nNMWp9Q",
+      "date": "2024-02-09T20:26:00.240Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=8d5bec30-2a0b-4883-9069-e10d6170d066",
+      "title": null,
+      "text": "👍🏻",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 0,
+      "criterias": []
+    },
+    {
+      "id": "489e6e68-dce1-476a-8327-61784ba0c69b",
+      "userName": "Nayoung Roh",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWptFns0mpZuqp8PRp8FE3K-8__HTYd2cGjcTQFsq_no7crZY8",
+      "date": "2022-12-26T18:06:32.551Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=489e6e68-dce1-476a-8327-61784ba0c69b",
+      "title": null,
+      "text": "Image recognition does not work at all. Tried just about a hundred times.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.17",
+      "thumbsUp": 1,
+      "criterias": []
+    },
+    {
+      "id": "82530899-d4b4-4eef-8c53-ab62f1d99a99",
+      "userName": "Erin Anderson",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI4JqJTVm9exG_I2AC84ZqOMiHkjE5ZCDrBepGz1JcUcgAwPQ=mo",
+      "date": "2022-12-25T21:22:12.272Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=82530899-d4b4-4eef-8c53-ab62f1d99a99",
+      "title": null,
+      "text": "Doesn't work",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.17",
+      "thumbsUp": 0,
+      "criterias": [
+        {
+          "criteria": "vaf_games_cute",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_interactive",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_customizable",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "298ec381-fc0c-46f4-ae77-b96707e4908f",
+      "userName": "Rachel Christian",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXwzwMhFiYACshgmrkTPLYsGrE_Ken7jTzDtk2zftQAjPSosfn4",
+      "date": "2022-02-28T20:13:54.907Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=298ec381-fc0c-46f4-ae77-b96707e4908f",
+      "title": null,
+      "text": "Can't get past the initial scan set-up. Regretting purchase",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.8",
+      "thumbsUp": 2,
+      "criterias": []
+    },
+    {
+      "id": "7ae9b443-012b-49dd-9ed2-b847dfd2ca94",
+      "userName": "Gregory Marton",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVz-axGY-OhxTG_Axr5BrVs7zNGvN-NJ2A5S8fpWlcPvxv8yeX54g",
+      "date": "2021-11-24T21:32:20.245Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=7ae9b443-012b-49dd-9ed2-b847dfd2ca94",
+      "title": null,
+      "text": "Image recognition is worthless and doesn't offer a way to enter what you have manually or to correct what it failed to scan. It was even hard to get past calibration and was super frustrating. Too much \"help\" text, because the whole thing is super confusing. Get a better UX designer please. And if you need to, make the vision task easier for yourselves with April tags or something.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.8",
+      "thumbsUp": 12,
+      "criterias": []
+    },
+    {
+      "id": "5380dcf0-c60e-4c4e-8c05-1186ad71ec32",
+      "userName": "dominic Washa",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU5D-vyH7LRWcbIyr_1jA5GEtGn-VrxPmISi8Mhnj20h3Ko4b62",
+      "date": "2021-11-12T16:56:22.809Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=5380dcf0-c60e-4c4e-8c05-1186ad71ec32",
+      "title": null,
+      "text": "The app does not work",
+      "replyDate": "2021-11-15T15:03:43.127Z",
+      "replyText": "Thank you for reaching out. We're sorry to hear you're having issues with the app and would love to try to help troubleshoot. Please feel free to reach out to us at GameSupport@schellgames.com with more details.",
+      "version": "1.2.8",
+      "thumbsUp": 1,
+      "criterias": []
+    },
+    {
+      "id": "6fcf21d1-5442-4497-b56e-4590f131d826",
+      "userName": "Cagri Aslan",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLgLY6WltH-a64ct0FrKvgrCF0neQm5guj-Zc7GfIN_Bmm9sA=mo",
+      "date": "2021-10-17T18:36:17.438Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=6fcf21d1-5442-4497-b56e-4590f131d826",
+      "title": null,
+      "text": "Could not get past the initial calibration. It misindentifies the scanned atoms.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.8",
+      "thumbsUp": 3,
+      "criterias": [
+        {
+          "criteria": "vaf_games_subject_superhero",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_fun",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_feature_leaderboard",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "5fe12309-808a-4b34-88a3-9d7c924da788",
+      "userName": "GLOBAL HEALTH SCIENCE INSTITUTE",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW4hHseBJkNE9mGgS6Sf3YO5f8PS-h3LOuhciC4UTpBnjR5i7M",
+      "date": "2021-10-15T16:30:54.551Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=5fe12309-808a-4b34-88a3-9d7c924da788",
+      "title": null,
+      "text": "The scanning of the molecules doesn't work.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.2.8",
+      "thumbsUp": 2,
+      "criterias": [
+        {
+          "criteria": "vaf_games_connectivity_required_before_first_use",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_genre_quiz",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_massively_multi_player",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "35390a05-736e-4a6b-a7c6-bed204973901",
+      "userName": "Nishat Ahmed",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVd2t1XDe1ci-wtrs46KzuIsYU22NEkBybmeYWowfwSeTK31ZJslQ",
+      "date": "2021-09-20T20:46:58.860Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=35390a05-736e-4a6b-a7c6-bed204973901",
+      "title": null,
+      "text": "Uh App doesn't work. What's the point? Won't scan anything.",
+      "replyDate": "2021-09-22T15:48:21.166Z",
+      "replyText": "We're so sorry to hear that you're having trouble with the app, and we'd be happy to try to help.\nPlease feel free to reach out to us at GameSupport@schellgames.com with your issue so that we can find a resolution for you! Thank you!",
+      "version": "1.2.8",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_intense",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_subject_superhero",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_massively_multi_player",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "7981346a-1157-47ad-8726-e8533d4821d2",
+      "userName": "Tiffany Blaskovich",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ68Af11Mg5X3kaOaCA7tE4sStVVgFPxkPWVZ4FO2cOO4pPyw=mo",
+      "date": "2021-08-26T21:27:02.656Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=7981346a-1157-47ad-8726-e8533d4821d2",
+      "title": null,
+      "text": "As others have mentioned, great kit but this app is such a waste of time and frustrating that the information is inaccessible. The camera does not pick up the correct atoms most of the time, so much time spent just trying to get this straight. Would love it if was more accurate, so my kids could spend more time learning and not trying to adjust the angle of the atoms!",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 15,
+      "criterias": []
+    },
+    {
+      "id": "a18ec259-414d-4a92-b39c-80982f1d558c",
+      "userName": "Helen Hovestreydt-Scott",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVkvU8YCFEARQRcJHGFznjOLsef4jkr_nAUqhyyDI_zluvQbLX4",
+      "date": "2021-06-30T23:44:35.777Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=a18ec259-414d-4a92-b39c-80982f1d558c",
+      "title": null,
+      "text": "If I could give a 0 rating, I would. We could not get past the calibration in the tutorial. My grandson, who is 10, and I could not get the app to scan the oxygen atom. My grandson became very frustrated. I am very disappointed as he loves Chemistry and Science. I thought this would be a fun learning adventure for him.",
+      "replyDate": "2021-07-01T14:57:43.435Z",
+      "replyText": "We're so sorry to hear you had this experience, Helen! We're happy to try to help so you and your grandson can start your learning adventure. To best do this, please feel free to reach out to us at GameSupport@schellgames.com and we'll work together to find a resolution for you.",
+      "version": "1.2.8",
+      "thumbsUp": 11,
+      "criterias": []
+    },
+    {
+      "id": "f10f58d9-c1a3-4513-9aca-eb8d275a1c50",
+      "userName": "JoAnna M",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI7RVO6VNUHSLcUu2aLPyYlwto9lPp9Rz-4irS3oqci7fMwoQ=mo",
+      "date": "2021-03-24T00:08:30.185Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=f10f58d9-c1a3-4513-9aca-eb8d275a1c50",
+      "title": null,
+      "text": "It never works",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_never_display_make_you_happy_games",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_sad",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_customizable",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "1eedec0e-c8cc-41cc-9282-64010e3d951e",
+      "userName": "John Gilmore",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV1HxVqj7Efqq5k8Ck4eEheCTjojDGXqp5R4b5KXcp1EEjt7gY",
+      "date": "2021-03-08T03:37:25.585Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=1eedec0e-c8cc-41cc-9282-64010e3d951e",
+      "title": null,
+      "text": "Didn't work, spent way too much time trying. Waste of time.",
+      "replyDate": "2021-03-10T19:12:43.229Z",
+      "replyText": "Hello, John! We're so sorry to hear you're having difficulties with Happy Atoms and spent so much time trying to get it sorted. We'd be happy to try to help. Feel free to reach out to the Schell Games Support Team at gamesupport@schellgames.com. Let us know more about what's not working and we'll help get this resolved for you. Thanks!",
+      "version": "1.1.0",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_subject_superhero",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_relaxing",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_genre_programming",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "e9202ab1-adc4-4817-8e01-70083ba52ae7",
+      "userName": "Laci Waters",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLQkULuZGOBdDYIxWUDVSWtzsLrH_i5cmiHpf56Em1uigKFDg=mo",
+      "date": "2021-01-20T14:46:26.180Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=e9202ab1-adc4-4817-8e01-70083ba52ae7",
+      "title": null,
+      "text": "Everyone says they had trouble with the scanning feature. Our family used 3 different devices and leaned quickly that taking a close up of the atoms vrs the entire mat made a big difference. Also if it gets one wrong its easy to change. My kids love it the app and I love that they are learning.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 8,
+      "criterias": []
+    },
+    {
+      "id": "23b088e2-5095-4069-9741-9873cb0ba751",
+      "userName": "Benjamin Bartlein",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXAXNb86eB9ofIb-OsZHSeCUKGG_y21LKuqCfmG__vrftQ6UV6q",
+      "date": "2020-12-30T16:17:04.794Z",
+      "score": 4,
+      "scoreText": "4",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=23b088e2-5095-4069-9741-9873cb0ba751",
+      "title": null,
+      "text": "Got to be able to create explosion",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 1,
+      "criterias": []
+    },
+    {
+      "id": "c74547ba-ef8c-46e1-86ac-b9249c9f07b7",
+      "userName": "Aloe Spirit",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXDZjMB53zD1AQnBfL0FFf1VJh8Cf0MgVMWebP2-FiTJMiHurl2",
+      "date": "2020-12-25T20:14:24.612Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=c74547ba-ef8c-46e1-86ac-b9249c9f07b7",
+      "title": null,
+      "text": "As others have described, this can't scan correctly. Constantly have to correct ID of an atom.. about 30% of them are misidentified. Good lighting, indoors, using supplied sheet.",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 27,
+      "criterias": []
+    },
+    {
+      "id": "78b9020e-52fe-47e3-a378-5760ee1cdfc1",
+      "userName": "Brooke Creech",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUpYZUqqPfGqfc842sBPdZanWKXBZuY4pBse7kkjp8PQZ-R8fSouw",
+      "date": "2020-09-15T16:31:07.101Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=78b9020e-52fe-47e3-a378-5760ee1cdfc1",
+      "title": null,
+      "text": "Cannot get app to accept pics taken of molecule in order to progress & use set as intended. Sent email requesting help to address provided in app store but received reply stating, \"We're writing to let you know that the group you tried to contact (androidlist) may not exist, or you may not have permission to post messages to the group.\" There's no option in app to contact developer for help. Kids & parent highly disappointed.",
+      "replyDate": "2020-09-16T20:56:45.918Z",
+      "replyText": "Hello, Brooke! We're so sorry to hear you're having difficulties with Happy Atoms and with contacting our support team. Feel free to reach out to the Schell Games Support Team at gamesupport@schellgames.com, and we'd be happy to help you with troubleshooting and finding a resolution!",
+      "version": "1.1.0",
+      "thumbsUp": 5,
+      "criterias": [
+        {
+          "criteria": "vaf_never_display_make_you_happy_games",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_genre_exploration",
+          "rating": 3
+        },
+        {
+          "criteria": "vaf_games_silly",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "b377633f-97d1-4e15-baec-47a589853a4d",
+      "userName": "Jaichand Yadav",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVE1BUBdGxWRX_iLYIvXkAFNX4xPSr3GEEBP1jFvcYs9kxYnXlO",
+      "date": "2020-08-16T16:56:23.317Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=b377633f-97d1-4e15-baec-47a589853a4d",
+      "title": null,
+      "text": "Its not getying started. It shows it name and then a white screen i waited for 1/2 hour with a fast internet too. It is not getting started.Sir please resolve the problem😐😐😐😑",
+      "replyDate": "2020-09-18T17:30:31.620Z",
+      "replyText": "Hello, Jaichand! We're sorry to hear you're having difficulties using the Happy Atoms app. We'd be happy to help you with troubleshooting, so you can start enjoying it. Feel free to reach out to the Schell Games Support Team at gamesupport@schellgames.com, and we can work together to find a resolution!",
+      "version": null,
+      "thumbsUp": 4,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "7339cfe1-7b9e-45a7-ba05-1e2ab02e8ea3",
+      "userName": "Geeky Gamer",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX79ciIXdE14iZbft4V7ItusEUGqVNlqjYwiQBhsR0V1doCEt0",
+      "date": "2020-08-02T16:47:01.821Z",
+      "score": 4,
+      "scoreText": "4",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=7339cfe1-7b9e-45a7-ba05-1e2ab02e8ea3",
+      "title": null,
+      "text": "It's kinda expensive. But other than that, it's just fun to make molecules. What you could do is add in a \"reaction chamber\" and show visually how it reacts (which atoms switch places, and how the electrons interact, etc). Also, can you add a function that allows for infinite atoms? (Just design your own molecule, without having to buy alot of sets) Like a sandbox mode, except maybe it costs $1.99 or use a code found on the box.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 9,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "6edb03c3-3712-4a8e-ae69-0962c1553870",
+      "userName": "Nina Blay",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX5LsuhjKWa48wJth4-jqtK_BTX-zyzItAW-f-AUDzD6dSFPHLj",
+      "date": "2020-04-30T22:34:52.605Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=6edb03c3-3712-4a8e-ae69-0962c1553870",
+      "title": null,
+      "text": "Horrible, don't recognize scan",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_genre_minigames",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_silly",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_subject_doctor",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "c9da9a10-d37a-41c6-8bdd-e48dda846cfe",
+      "userName": "Kelli Epperly",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUMSgzSgfwRGJnv2GeCmmfNGpC1Wi4IveBfiJ9TT0PduCYOk9YD",
+      "date": "2020-04-30T02:54:38.100Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=c9da9a10-d37a-41c6-8bdd-e48dda846cfe",
+      "title": null,
+      "text": "It will not move past scanning the first atom.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 3,
+      "criterias": [
+        {
+          "criteria": "vaf_games_genre_brain_training",
+          "rating": 3
+        },
+        {
+          "criteria": "vaf_games_exciting",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_entertaining",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "20b4fc77-0f02-4ae4-b5fe-37475b3a8493",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2020-03-01T21:34:51.115Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=20b4fc77-0f02-4ae4-b5fe-37475b3a8493",
+      "title": null,
+      "text": "It does what it tells you it does. 5 stars for being honest.",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 3,
+      "criterias": [
+        {
+          "criteria": "vaf_games_exciting",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_subject_cooking",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_funny",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "722c986e-f385-4f02-94f6-44d751721b26",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2019-12-26T02:48:25.873Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=722c986e-f385-4f02-94f6-44d751721b26",
+      "title": null,
+      "text": "It don't freaking scan the dang atoms even though when I scan it clearly says the atomic name.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 4,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "8e9a78db-0ddf-4f96-833b-f854d752a3f4",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2019-12-05T16:21:07.570Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=8e9a78db-0ddf-4f96-833b-f854d752a3f4",
+      "title": null,
+      "text": "Doesn't wanna download and it didnt scan our atoms",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 1,
+      "criterias": []
+    },
+    {
+      "id": "f436ba69-6304-45a4-a7c4-aba009904ceb",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2019-11-24T14:33:04.242Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=f436ba69-6304-45a4-a7c4-aba009904ceb",
+      "title": null,
+      "text": "It's all about making molecules",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 5,
+      "criterias": []
+    },
+    {
+      "id": "96e73de0-d2ed-44b3-8d13-ad34a41d2072",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2019-11-22T14:51:49.137Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=96e73de0-d2ed-44b3-8d13-ad34a41d2072",
+      "title": null,
+      "text": "very bad. this is bad. mega bad. not fun bad. very boring bad. bad.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "a64c36d1-2386-4ef7-bc7d-5569f5ba5de6",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2019-10-01T16:41:19.861Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=a64c36d1-2386-4ef7-bc7d-5569f5ba5de6",
+      "title": null,
+      "text": "does not work on a Chromebook :(",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 36,
+      "criterias": []
+    },
+    {
+      "id": "38975987-52da-4ee5-a46f-5cc9a9b2dd39",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2019-09-18T11:37:29.861Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=38975987-52da-4ee5-a46f-5cc9a9b2dd39",
+      "title": null,
+      "text": "I bought the set.. what a waste. The app doesn't work.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 3,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "420375e3-535d-43e8-a388-d7fb5d5bc137",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2019-05-16T23:09:19.550Z",
+      "score": 4,
+      "scoreText": "4",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=420375e3-535d-43e8-a388-d7fb5d5bc137",
+      "title": null,
+      "text": "I was ready to send the kit I got back after a half hour of multiple people trying to use this app on multiple devices.  But I decided to try tech support instead.  The tech support responded quickly and helped me bypass the tutorial which is the most finicky about taking the pictures.    Now that the app is up and running it's AWESOME!  True, sometimes the picture taking can be a bit problematic.  We have to find the right lighting and background in different parts of the house during different times of the day, but if I am patient with the set up, the kids become independent learners and are sooo excited every time the create a molecule.  So the star rating: Good tech support saved it from a 1, but the daily ritual of finding the best lighting prevents it from achieving 5 stardom.  The information, puzzles and application are soo worth the headache of setting it up.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 39,
+      "criterias": []
+    },
+    {
+      "id": "f2f04704-565a-41c0-8b62-1ea4d12dbece",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2019-03-29T21:09:30.400Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=f2f04704-565a-41c0-8b62-1ea4d12dbece",
+      "title": null,
+      "text": "wont calibrate",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.1.0",
+      "thumbsUp": 3,
+      "criterias": []
+    },
+    {
+      "id": "1d9c8051-ff1a-428d-aa99-d3082c24e102",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2019-03-26T22:21:58.186Z",
+      "score": 3,
+      "scoreText": "3",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=1d9c8051-ff1a-428d-aa99-d3082c24e102",
+      "title": null,
+      "text": "it's a ar set I know that..",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 1,
+      "criterias": []
+    },
+    {
+      "id": "1c7e7a91-5d4c-4b3e-92c1-1c1ba657da13",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-11-18T20:49:00.389Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=1c7e7a91-5d4c-4b3e-92c1-1c1ba657da13",
+      "title": null,
+      "text": "This game sucks. It didn't work on my phone and it only works on iOS. You also have to buy the set to play which is a dumb thing. DON'T PLAY!!!!!",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.6",
+      "thumbsUp": 5,
+      "criterias": [
+        {
+          "criteria": "vaf_games_genre_minigames",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_fun",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_multi_player_v2",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "11ab16f7-02d5-46dd-960b-94fb87629f40",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-11-14T18:53:39.720Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=11ab16f7-02d5-46dd-960b-94fb87629f40",
+      "title": null,
+      "text": "It wouldn't recognize any of the atoms we tryed scanning we are disappointed cause we had high hopes we will try and see if they have a costumer service , still the set is fun too work with just the app is dysfunctional.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.6",
+      "thumbsUp": 10,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "76eee53d-6c92-4099-823b-2a715f6a9772",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-11-11T21:48:34.908Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=76eee53d-6c92-4099-823b-2a715f6a9772",
+      "title": null,
+      "text": "I have it I have 2 more games on this device because I deleted them to download this game I can't even open the because it said not inouph room don't download this at all",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 5,
+      "criterias": [
+        {
+          "criteria": "vaf_learning_piano",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_interactive",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_scary",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "2bf36776-4129-416e-9915-15ef385eb333",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-09-23T15:33:53.627Z",
+      "score": 3,
+      "scoreText": "3",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=2bf36776-4129-416e-9915-15ef385eb333",
+      "title": null,
+      "text": "Didn't load on my Alcatel. Either got stuck on a white or black screen. 😔",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.6",
+      "thumbsUp": 4,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "6ff42e46-85c7-48f3-b590-d81e6024be60",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-09-04T13:44:02.202Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=6ff42e46-85c7-48f3-b590-d81e6024be60",
+      "title": null,
+      "text": "Took too long to load",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_educational",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_single_player",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_happy",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "0e2ec02a-45d1-4e94-abbe-dede1abbe214",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-09-03T19:29:16.703Z",
+      "score": 2,
+      "scoreText": "2",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=0e2ec02a-45d1-4e94-abbe-dede1abbe214",
+      "title": null,
+      "text": "Will not work properly. Can't even get past the first atom. Will be returning product. Cool idea, but won't work!",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.6",
+      "thumbsUp": 4,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "e707e407-42ff-45aa-b5e6-c8bf7c532ea8",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-08-18T12:11:36.470Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=e707e407-42ff-45aa-b5e6-c8bf7c532ea8",
+      "title": null,
+      "text": "Works fine on my galaxy s4",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.6",
+      "thumbsUp": 0,
+      "criterias": [
+        {
+          "criteria": "vaf_games_addictive",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_genre_quiz",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_feature_leaderboard",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "id": "a9479590-a67d-4f51-b712-9aab6432cf2d",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-07-10T16:28:11.894Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=a9479590-a67d-4f51-b712-9aab6432cf2d",
+      "title": null,
+      "text": "Love it its so entertaining",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_entertaining",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_realistic",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_feature_leaderboard",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "id": "f78cd928-5b36-48ac-80a6-6676acbf2392",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-05-26T17:23:51.695Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=f78cd928-5b36-48ac-80a6-6676acbf2392",
+      "title": null,
+      "text": "Doesn't load at all - just a black screen.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "61095298-7531-4b15-9176-e506284bb9cc",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-04-21T15:38:22.339Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=61095298-7531-4b15-9176-e506284bb9cc",
+      "title": null,
+      "text": "Won't load on my phone. (S8) Frustrating for a kid who wants to play with atoms in an Apple-free home.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 3,
+      "criterias": []
+    },
+    {
+      "id": "1b02597b-7736-4d55-8e12-a5628ef5f81e",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-04-19T19:39:33.176Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=1b02597b-7736-4d55-8e12-a5628ef5f81e",
+      "title": null,
+      "text": "It wouldn't work on my phone",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_fun",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_sad",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_multi_player_friends",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "42b8e908-555c-421e-b9c5-1f7989b70ccc",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-03-24T18:30:56.456Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=42b8e908-555c-421e-b9c5-1f7989b70ccc",
+      "title": null,
+      "text": "Great app",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 2,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "3d0781db-9437-443c-a931-90ee44873eaa",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-03-11T03:22:23.332Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=3d0781db-9437-443c-a931-90ee44873eaa",
+      "title": null,
+      "text": "Crashes during setup when it tries to take a picture. Works on iPad, but wanted it on galaxy tablet.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 2,
+      "criterias": [
+        {
+          "criteria": "vaf_games_intense",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_multi_player_v2",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_happy",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "13a3c4eb-87ad-41be-bda8-9686fd0ae0e3",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-02-25T18:56:21.583Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=13a3c4eb-87ad-41be-bda8-9686fd0ae0e3",
+      "title": null,
+      "text": "Bad reviews are correct. App simply does not work. It crashes after taking the calibration pic.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "352b0fbf-4b83-4af7-ba69-59f9810bc7a3",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-02-13T23:49:36.216Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=352b0fbf-4b83-4af7-ba69-59f9810bc7a3",
+      "title": null,
+      "text": "I cant even play!? What even is this? Why do I have to buy something for a freaking $20?",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_addictive",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_challenging",
+          "rating": 3
+        },
+        {
+          "criteria": "vaf_games_entertaining",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "bd092ada-3b7c-4bbb-a516-abaab7701a0f",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-01-30T19:14:42.323Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=bd092ada-3b7c-4bbb-a516-abaab7701a0f",
+      "title": null,
+      "text": "I hate science. I was forced to download this for school.",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_fun",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_smooth",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_massively_multi_player",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "a5d7cf91-755b-4e95-a66d-048bf7e5a720",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-01-27T22:44:45.529Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=a5d7cf91-755b-4e95-a66d-048bf7e5a720",
+      "title": null,
+      "text": "Seriously I have this boi don't say oxygen is hydrogen stupid thing.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "9f04856e-fb9e-49a6-bcb8-cd6c39882b6c",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-01-18T21:41:52.618Z",
+      "score": 4,
+      "scoreText": "4",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=9f04856e-fb9e-49a6-bcb8-cd6c39882b6c",
+      "title": null,
+      "text": "After we purchased the complete set of 'Hardware', I was nervous when I saw the reviews for the app.  We did experience some of the difficulties others have lamented in the reviews, but we eventually got everything working and my kids love it.  It has ended up being fun, educational, and simple enough for the kids to run.  Like others we had a hard time getting the app calibrated and the first molecule scanned.  For us the problem was with the first molecule the app kept labeling the atoms incorrectly.  Typically the app lets you manually change the labels if needed, but this is not an option with the first molecule.  I changed the lighting over the molecule to brighten the colors and then the app recognized them correctly and we were on our way.  One other tip, if the molecule seems impossible to connect correctly, just set the atoms next to each other without connecting them.  It works just fine.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 5,
+      "criterias": []
+    },
+    {
+      "id": "45697af0-7b9a-4b51-a45a-66e04cd31302",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-01-06T21:05:40.647Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=45697af0-7b9a-4b51-a45a-66e04cd31302",
+      "title": null,
+      "text": "Crashes constantly and is a waste of storage and my time.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 2,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "0d8b1113-c3c3-40d3-a10f-87e533ae4e7f",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2018-01-03T14:24:17.483Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=0d8b1113-c3c3-40d3-a10f-87e533ae4e7f",
+      "title": null,
+      "text": "I understand this is a new app but it's been 6 months since it was put out and the bugs should have been worked out by Christmas.  It's mislabling atoms and refuses to sythesize. I'm very happy of the quality of the actual atoms but they are useless without a properly working app. If I do not get a prompt response to my email I will be returning. Has potential but far too expensive to be collecting dust. So far EXTREMELY disappointed.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "b7364ecb-d29d-4cc6-8b06-c2d3dff70bb2",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-31T02:33:01.243Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=b7364ecb-d29d-4cc6-8b06-c2d3dff70bb2",
+      "title": null,
+      "text": "What a waste of money, of which I spent a lot. Damn toy cost $110 and we can't get it to work. On my son's phone (We all have androids) it crashes everyone it tries to access the camera during the set up process. Okay. I have a new phone (S7). I load the app on my phone. It doesn't crash, but I keep getting a message that, \"Whoops, something is off. Reset the camera and try again. I have restarted my phone and that didn't do anything to help. I have uninstalled and reinstalled. Same issues. Really pretty pissed off about this. If I spent $20 on the toy, the  I got what I paid for. I spent over  $100.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 6,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "0776266d-b4da-445b-b19b-2898c89515ec",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-30T08:49:53.907Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=0776266d-b4da-445b-b19b-2898c89515ec",
+      "title": null,
+      "text": "It doesn't even let me go past the calibration part, fix it",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 5,
+      "criterias": [
+        {
+          "criteria": "vaf_games_multi_player_v2",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_cute",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_intense",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "0bab6030-0a8d-4a78-928e-4546e0228f81",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-28T23:35:53.369Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=0bab6030-0a8d-4a78-928e-4546e0228f81",
+      "title": null,
+      "text": "It sucks. When I went into the molecular scanner, it shut down. Every time. I do not know if it put malware on my phone, but it does not work.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 2,
+      "criterias": [
+        {
+          "criteria": "vaf_games_happy",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_works_offline",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_single_player",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "27952bca-b613-40d9-8280-7456e34f3c3c",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-27T18:18:19.230Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=27952bca-b613-40d9-8280-7456e34f3c3c",
+      "title": null,
+      "text": "Crashing during calibration for us too. Have tried repeatedly since christmas. Have unistalled app, and reinstalled. App apparently needs an update to work for us.  Son was excited for Happy Atoms, but interest is quickly fading since the app is nonfunctional.  Frustrating for parents too since this was an expensive gift",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 3,
+      "criterias": [
+        {
+          "criteria": "vaf_games_realistic",
+          "rating": 3
+        },
+        {
+          "criteria": "vaf_games_massively_multi_player",
+          "rating": 3
+        },
+        {
+          "criteria": "vaf_games_complex",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "868b945c-40e8-4c21-b176-730d27369817",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-26T03:58:33.215Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=868b945c-40e8-4c21-b176-730d27369817",
+      "title": null,
+      "text": "Good",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 0,
+      "criterias": [
+        {
+          "criteria": "vaf_games_realistic",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_educational",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_classic",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "c6d43494-f894-48b5-a8be-eccbe6b818ea",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-25T23:22:54.590Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=c6d43494-f894-48b5-a8be-eccbe6b818ea",
+      "title": null,
+      "text": "Can't get through set up. Tried with multiple devices. Waste of money and time! Disappointing Christmas gift. Amazed creators allow app to remain up. Will be returning molecules. Could have been awesome!",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 2,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "c17d1d10-1058-4f74-a4b7-2f427d9e53aa",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-25T19:35:33.890Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=c17d1d10-1058-4f74-a4b7-2f427d9e53aa",
+      "title": null,
+      "text": "I understand that it is new, but have you people even tested this app? I tried for an hour straight with multiple devices, different lighting, and different angles and it never read the atom. This was an exspensive gift that was very disapointing, but I am looking forward to a better version of this app that actually works. For now, you guys should be ashamed for releasing this app with so many bugs.",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 6,
+      "criterias": [
+        {
+          "criteria": "vaf_games_fun",
+          "rating": 3
+        },
+        {
+          "criteria": "vaf_games_customizable",
+          "rating": 3
+        },
+        {
+          "criteria": "vaf_games_complex",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "5e2e23c4-3867-475b-91c0-22a60df79685",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-25T17:04:35.705Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=5e2e23c4-3867-475b-91c0-22a60df79685",
+      "title": null,
+      "text": "Couldn't even get past the setup. Crashes during calibration. If this isn't fixed, I will be asking for my money back.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 5,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "579e34ae-9f2d-4620-bf35-84c3c1994d3b",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-21T01:32:25.371Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=579e34ae-9f2d-4620-bf35-84c3c1994d3b",
+      "title": null,
+      "text": "Does not work. Failed to calibrate after 10 minutes to download and install",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 3,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "60c0adb4-eeb1-4bd3-9b85-40911339ba2b",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-19T03:38:15.897Z",
+      "score": 3,
+      "scoreText": "3",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=60c0adb4-eeb1-4bd3-9b85-40911339ba2b",
+      "title": null,
+      "text": "The camera has difficulty taking a picture of the molecule, keep getting a white screen. Constantly have to to close app and reopen. Also misidentifies elements even when clearly seen and \"targeted\" in picture. Frustrating for a child and disappointing for a very expensive gift.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 2,
+      "criterias": []
+    },
+    {
+      "id": "dc20d720-7b1c-44f7-8283-2900ab05104d",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-15T03:11:38.556Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=dc20d720-7b1c-44f7-8283-2900ab05104d",
+      "title": null,
+      "text": "Crashes everytime i try to do the calibration.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 6,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "434f428c-ed38-4a9d-a4fe-ebe87ef06762",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-12-13T02:49:14.899Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=434f428c-ed38-4a9d-a4fe-ebe87ef06762",
+      "title": null,
+      "text": "Horrible software ruins what could be an awesome learning tool.  It's even more irritating that the software appears to recognize the atoms (because it correctly labels them) but still refuses to allow you to synthesize them.  Tried on several devices and in different lighting.  Useless product, you should be ashamed of yourselves!",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 3,
+      "criterias": [
+        {
+          "criteria": "vaf_games_classic",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_simple",
+          "rating": 2
+        },
+        {
+          "criteria": "vaf_games_happy",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "3ae580bb-f4b4-4ba9-b866-27e24471bb14",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-11-26T01:15:01.790Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=3ae580bb-f4b4-4ba9-b866-27e24471bb14",
+      "title": null,
+      "text": "THIS GAME HAS LITERALLY BEEN SAYING INSTALLING FOR A DAY BUT IT WON'T INSTALL",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 2,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "65fad1fb-1c87-4ceb-8b7d-a0ff60841807",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-11-09T05:25:54.412Z",
+      "score": 3,
+      "scoreText": "3",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=65fad1fb-1c87-4ceb-8b7d-a0ff60841807",
+      "title": null,
+      "text": "Pretty good. It can't really recognize what I build. Also please add iron.",
+      "replyDate": null,
+      "replyText": null,
+      "version": "1.0.4",
+      "thumbsUp": 0,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "32f0aacc-9a89-4397-9a82-ea0390eadf1c",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-10-25T18:07:56.647Z",
+      "score": 5,
+      "scoreText": "5",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=32f0aacc-9a89-4397-9a82-ea0390eadf1c",
+      "title": null,
+      "text": "Great app!",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 1,
+      "criterias": [
+        {
+          "criteria": "vaf_games_exciting",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_realistic",
+          "rating": 1
+        },
+        {
+          "criteria": "vaf_games_silly",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": "5f6fa387-ab26-427f-a8a3-94ce7d82021e",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-10-14T14:05:40.540Z",
+      "score": 3,
+      "scoreText": "3",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=5f6fa387-ab26-427f-a8a3-94ce7d82021e",
+      "title": null,
+      "text": "yvgvft try d stu😨😰😟😊😟😨🍍🍄🍊🍓🍆😱",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 3,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    },
+    {
+      "id": "cc5437d0-5ef5-4d3e-85e7-6b7b27505413",
+      "userName": "A Google user",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "date": "2017-09-13T08:04:29.991Z",
+      "score": 1,
+      "scoreText": "1",
+      "url": "https://play.google.com/store/apps/details?id=com.schellgames.happyatoms&reviewId=cc5437d0-5ef5-4d3e-85e7-6b7b27505413",
+      "title": null,
+      "text": "Let me check",
+      "replyDate": null,
+      "replyText": null,
+      "version": null,
+      "thumbsUp": 2,
+      "criterias": [
+        {
+          "criteria": "vaf_games_rating_controls",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_gameplay",
+          "rating": null
+        },
+        {
+          "criteria": "vaf_games_rating_graphics",
+          "rating": null
+        }
+      ]
+    }
+  ]
+}
